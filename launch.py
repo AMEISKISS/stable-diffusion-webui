@@ -353,4 +353,4 @@ def start():
 
 if __name__ == "__main__":
     prepare_environment()
-    start()
+    #start()
